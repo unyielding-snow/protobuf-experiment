@@ -1,0 +1,57 @@
+syntax = "proto3";
+package tutorial;      // Naming package for individual projects
+
+import "google/protobuf/timestamp.proto";
+// option csharp_namespace = "Google.Protobuf.Examples.AddressBook";   // Namespace will match package name if not defined
+
+
+// Main stuff: message definitions
+// A message is just an aggregate containing typed fields
+
+
+// you add a message for each data structure you want to serialize,
+// then specify a name and a type for each field in the message.
+
+message Person {
+    string name = 1;
+    int32 id = 2;  // Unique ID number for this person.
+    string email = 3;
+  
+    enum PhoneType {
+      PHONE_TYPE_UNSPECIFIED = 0;
+      PHONE_TYPE_MOBILE = 1;
+      PHONE_TYPE_HOME = 2;
+      PHONE_TYPE_WORK = 3;
+    }
+  
+    message PhoneNumber {
+      string number = 1;
+      PhoneType type = 2;
+    }
+  
+    repeated PhoneNumber phones = 4;
+  
+    google.protobuf.Timestamp last_updated = 5;
+  }
+  
+// Our address book file is just one of these.
+// This is how you make an dynamically sized array in a protofile
+message AddressBook {
+    repeated Person people = 1;
+}
+
+// So how do we use this in a csharp file?
+// Feed protofile to protoc compiler and desired language to get output
+// NOTE: You must have a csharp protoc (compiler path in the project), run the executable
+
+// protoc -I=$SRC_DIR --csharp_out=$DST_DIR $SRC_DIR/project.proto
+// I use /protoc-25/bin/protoc --csharp_out=:. project.proto 
+
+
+// Finish generation by above code, now need to download google-protobuff assemblies to compile the code
+// Checkout https://protobuf.dev/reference/csharp/csharp-generated/ to understand how its generated
+// -Need to install Nuget packages Google.protobuf & Google.protobuff.Tools
+ 
+// PARSING
+
+
