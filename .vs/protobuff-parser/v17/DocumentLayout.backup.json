@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{392A0CC0-CCBE-4A6B-B9FC-B28283F80E1C}|protobuff-parser\\protobuff-parser.csproj|C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\cleantemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392A0CC0-CCBE-4A6B-B9FC-B28283F80E1C}|protobuff-parser\\protobuff-parser.csproj|solutionrelative:protobuff-parser\\cleantemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392A0CC0-CCBE-4A6B-B9FC-B28283F80E1C}|protobuff-parser\\protobuff-parser.csproj|C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\create-map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392A0CC0-CCBE-4A6B-B9FC-B28283F80E1C}|protobuff-parser\\protobuff-parser.csproj|solutionrelative:protobuff-parser\\create-map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392A0CC0-CCBE-4A6B-B9FC-B28283F80E1C}|protobuff-parser\\protobuff-parser.csproj|C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\clean-template.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{392A0CC0-CCBE-4A6B-B9FC-B28283F80E1C}|protobuff-parser\\protobuff-parser.csproj|solutionrelative:protobuff-parser\\clean-template.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|protobuff-parser||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392A0CC0-CCBE-4A6B-B9FC-B28283F80E1C}|protobuff-parser\\protobuff-parser.csproj|C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\template.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{392A0CC0-CCBE-4A6B-B9FC-B28283F80E1C}|protobuff-parser\\protobuff-parser.csproj|solutionrelative:protobuff-parser\\template.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392A0CC0-CCBE-4A6B-B9FC-B28283F80E1C}|protobuff-parser\\protobuff-parser.csproj|C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\to-binary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392A0CC0-CCBE-4A6B-B9FC-B28283F80E1C}|protobuff-parser\\protobuff-parser.csproj|solutionrelative:protobuff-parser\\to-binary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392A0CC0-CCBE-4A6B-B9FC-B28283F80E1C}|protobuff-parser\\protobuff-parser.csproj|C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\read-parse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392A0CC0-CCBE-4A6B-B9FC-B28283F80E1C}|protobuff-parser\\protobuff-parser.csproj|solutionrelative:protobuff-parser\\read-parse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\lua-protobuf-test\\lua-protobuf-test\\CleanTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392A0CC0-CCBE-4A6B-B9FC-B28283F80E1C}|protobuff-parser\\protobuff-parser.csproj|c:\\users\\justi\\onedrive - umich\\desktop\\projects\\personal_learning\\protobuff-parser\\protobuff-parser\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clean-template.proto",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\clean-template.proto",
+              "RelativeDocumentMoniker": "protobuff-parser\\clean-template.proto",
+              "ToolTip": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\clean-template.proto",
+              "RelativeToolTip": "protobuff-parser\\clean-template.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-04-11T01:59:15.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CleanTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\CleanTemplate.cs",
+              "RelativeDocumentMoniker": "protobuff-parser\\CleanTemplate.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\CleanTemplate.cs",
+              "RelativeToolTip": "protobuff-parser\\CleanTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8BAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:33:23.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CleanTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\lua-protobuf-test\\lua-protobuf-test\\CleanTemplate.cs",
+              "RelativeDocumentMoniker": "..\\lua-protobuf-test\\lua-protobuf-test\\CleanTemplate.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\lua-protobuf-test\\lua-protobuf-test\\CleanTemplate.cs",
+              "RelativeToolTip": "..\\lua-protobuf-test\\lua-protobuf-test\\CleanTemplate.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:30:22.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "protobuff-parser",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\protobuff-parser.csproj",
+              "RelativeDocumentMoniker": "protobuff-parser\\protobuff-parser.csproj",
+              "ToolTip": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\protobuff-parser.csproj",
+              "RelativeToolTip": "protobuff-parser\\protobuff-parser.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-04T20:05:16.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "create-map.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\create-map.cs",
+              "RelativeDocumentMoniker": "protobuff-parser\\create-map.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\create-map.cs",
+              "RelativeToolTip": "protobuff-parser\\create-map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:00:36.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "to-binary.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\to-binary.cs",
+              "RelativeDocumentMoniker": "protobuff-parser\\to-binary.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\to-binary.cs",
+              "RelativeToolTip": "protobuff-parser\\to-binary.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T04:06:25.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "read-parse.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\read-parse.cs",
+              "RelativeDocumentMoniker": "protobuff-parser\\read-parse.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\read-parse.cs",
+              "RelativeToolTip": "protobuff-parser\\read-parse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T23:09:04.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "template.proto",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\template.proto",
+              "RelativeDocumentMoniker": "protobuff-parser\\template.proto",
+              "ToolTip": "C:\\Users\\justi\\OneDrive - Umich\\Desktop\\Projects\\personal_learning\\protobuff-parser\\protobuff-parser\\template.proto",
+              "RelativeToolTip": "protobuff-parser\\template.proto",
+              "ViewState": "AQIAACEAAAAAAAAAAAAcwCoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-02-15T21:40:05.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

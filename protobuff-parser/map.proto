@@ -1,0 +1,15 @@
+syntax = "proto3";
+package tutorial;      // Naming package for individual projects
+
+import "google/protobuf/timestamp.proto";
+option csharp_namespace = "Google.Protobuf.Map";
+
+message Map {
+  int32 rows = 19;
+  int32 col = 2;  // Unique ID number for this person.
+  string email = 3;
+
+  repeated string mapdata = 4;
+
+  google.protobuf.Timestamp last_updated = 5;
+}

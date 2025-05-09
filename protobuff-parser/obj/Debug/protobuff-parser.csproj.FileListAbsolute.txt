@@ -22,6 +22,6 @@ C:\Users\justi\OneDrive - Umich\Desktop\Projects\personal_learning\protobuff-par
 C:\Users\justi\OneDrive - Umich\Desktop\Projects\personal_learning\protobuff-parser\protobuff-parser\bin\Debug\System.Memory.xml
 C:\Users\justi\OneDrive - Umich\Desktop\Projects\personal_learning\protobuff-parser\protobuff-parser\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\justi\OneDrive - Umich\Desktop\Projects\personal_learning\protobuff-parser\protobuff-parser\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\justi\OneDrive - Umich\Desktop\Projects\personal_learning\protobuff-parser\protobuff-parser\obj\Debug\protobuff-parser.csproj.CopyComplete
 C:\Users\justi\OneDrive - Umich\Desktop\Projects\personal_learning\protobuff-parser\protobuff-parser\obj\Debug\protobuff-parser.exe
 C:\Users\justi\OneDrive - Umich\Desktop\Projects\personal_learning\protobuff-parser\protobuff-parser\obj\Debug\protobuff-parser.pdb
+C:\Users\justi\OneDrive - Umich\Desktop\Projects\personal_learning\protobuff-parser\protobuff-parser\obj\Debug\protobuf.BAE798DB.Up2Date

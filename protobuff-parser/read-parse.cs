@@ -19,9 +19,9 @@ namespace protobuff_parser
         {
             Person john = new Person
             {
-                Id = 1234,
-                Name = "John Doe",
-                Email = "jdoe@example.com",
+                Id = 123,
+                Name = "John",
+                Email = "joe@example.com",
 
                 // Phone uses enum see defined specs
                 Phones = { new Person.Types.PhoneNumber { Number = "555-4321", Type = Person.Types.PhoneType.Home } }
@@ -41,9 +41,9 @@ namespace protobuff_parser
                 james = Person.Parser.ParseFrom(input);
             }
 
-            using (var output = File.Create("john.dat"))
+            using (var output = File.Create("james.dat"))
             {
-                john.WriteTo(output);
+                james.WriteTo(output);
             }
 
             // TESTING: Setting variables
@@ -55,10 +55,30 @@ namespace protobuff_parser
 
             // TESTING: Byte arrays
             byte[] bytes = justin.ToByteArray();
-            
+            //System.Diagnostics.Debug.WriteLine(bytes);
+            using (var stream = File.Create("byte.txt"))
+            {
+                stream.Write(bytes, 0, bytes.Length);
+            }
+            Person copy = Person.Parser.ParseFrom(bytes);
 
+            // TESTING: Arrays of Person (AddressBook)
+            AddressBook book = new AddressBook
+            {
+                People =
+                {
+                    copy, 
+                    justin,
+                    james
+                }
+            };
+            bytes = book.ToByteArray();
+            AddressBook restored = AddressBook.Parser.ParseFrom(bytes);
 
-            // Questions: How do we combine 
+            if(restored.People.Count == 3)
+            {
+                System.Diagnostics.Debug.WriteLine("correct number of people!");
+            }
 
         }
     }

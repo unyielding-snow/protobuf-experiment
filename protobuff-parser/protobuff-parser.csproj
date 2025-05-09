@@ -35,10 +35,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>protobuff_parser.read_parse</StartupObject>
+    <StartupObject>protobuff_parser.CreateMap</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="clean-template.proto" />
+    <None Include="map.proto" />
     <None Include="packages.config" />
     <None Include="template.proto" />
   </ItemGroup>
@@ -74,8 +76,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CleanTemplate.cs" />
+    <Compile Include="create-map.cs" />
+    <Compile Include="Map.cs" />
     <Compile Include="read-parse.cs" />
     <Compile Include="template.cs" />
+    <None Include="test-array.json" />
     <Compile Include="to-binary.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
